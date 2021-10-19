@@ -1,0 +1,17 @@
+.doboz{
+    background-color: antiquewhite ;
+    padding: 20px;
+    width: 80%;
+
+    border: 10px solid goldenrod;
+}
+.doboz h1{
+    background-color:lightgoldenrodyellow  ;
+    margin: 0
+}
+#Pottyos{
+    border: 10px dotted goldenrod
+}
+#vonalas{
+    border: 10px dashed goldenrod
+}
